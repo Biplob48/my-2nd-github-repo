@@ -1,0 +1,7 @@
+img{
+    display: block;
+    margin: auto;
+    border: 10px solid darkgoldenrod;
+    border-radius: 10px;
+    padding: 20px;
+}
