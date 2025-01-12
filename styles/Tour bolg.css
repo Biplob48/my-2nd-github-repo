@@ -1,13 +1,8 @@
-img{
+img {
+    border: 15px solid seagreen;
+    padding: 10px;
     display: block;
     margin: auto;
-    border: 10px solid darkgoldenrod;
-    border-radius: 10px;
-    padding: 20px;
-}
-#island{
-    text-align: center;
-    font-weight: bold;
 }
 .travel{
     color: darkgreen;
@@ -25,4 +20,23 @@ img{
     border: 10px solid green;
     padding: 15px;
     border-radius: 20px;
+}
+
+footer{
+    text-align: center;
+    font-weight: bold;
+}
+
+#link{
+    color: brown;
+    font-weight: bolder;
+    text-decoration: none;
+  
+}
+
+button > a {
+    text-decoration: none;
+}
+p > a{
+    text-decoration: none;
 }
